@@ -1,0 +1,14 @@
+O conteúdo do Curso de Estrutura de Dados dividiu-se em:
+- Conceito
+- Vetores e Matrizes
+- Registros
+- Listas
+- Pilhas
+- Filas
+- Árvores
+- Tabelas Hash
+- Grafos
+
+O professor teve o cuidado e a preocupação
+de introduzir cada um dos assuntos no decorrer
+do curso.
